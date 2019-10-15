@@ -1,5 +1,7 @@
 # shisanshui
 
+下载node js
+
 cmd
 
 进入文件目录
@@ -7,3 +9,5 @@ cmd
 npm install
 
 npm run dev
+
+得到网址
