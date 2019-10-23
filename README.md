@@ -1,6 +1,6 @@
 # shisanshui
 
-UI部分：已经做成gif放到博客园上了
+UI部分：已经做成gif放到博客园上了https://www.cnblogs.com/wqh1999/
 
 使用的语言是vue&js&html&css
 
