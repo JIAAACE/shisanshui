@@ -1,5 +1,7 @@
 # shisanshui
 
+![](https://img.shields.io/cocoapods/p/shisanshui.svg?style=windows)
+
 UI部分：已经做成gif放到博客园上了https://www.cnblogs.com/jiasworld/p/11681427.html
 
 具体规范请点进shisanshui文件，感谢
@@ -20,4 +22,3 @@ cmd进入终端，
 
 注意事项：页面自适应不太好，若出现偏差请用鼠标滚轮放大或缩小页面至合适位置。
 
-![](https://img.shields.io/cocoapods/p/13water.svg?style=flat)
