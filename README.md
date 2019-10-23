@@ -1,6 +1,6 @@
 # shisanshui
 
-![](https://img.shields.io/cocoapods/p/shisanshui.svg?style=windows)
+![](https://img.shields.io/badge/vue-objc-orange.svg)
 
 UI部分：已经做成gif放到博客园上了https://www.cnblogs.com/jiasworld/p/11681427.html
 
