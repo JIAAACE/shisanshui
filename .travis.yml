@@ -1,1 +1,7 @@
+language: vue
 
+install:
+
+    - npm install -npm run dev
+
+script:true
