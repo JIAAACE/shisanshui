@@ -2,6 +2,8 @@
 
 UI部分：已经做成gif放到博客园上了https://www.cnblogs.com/jiasworld/p/11681427.html
 
+具体规范请点进shisanshui文件，感谢
+
 使用的语言是vue&js&html&css
 
 运行环境：windows，有下载node js
