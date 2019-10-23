@@ -1,5 +1,7 @@
 # shisanshui
 
+UI部分：已经做成gif放到博客园上了
+
 使用的语言是vue&js&html&css
 
 运行环境：windows，有下载node js
