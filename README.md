@@ -19,3 +19,5 @@ cmd进入终端，
 先注册再登录，
 
 注意事项：页面自适应不太好，若出现偏差请用鼠标滚轮放大或缩小页面至合适位置。
+
+![](https://img.shields.io/cocoapods/p/13water.svg?style=flat)
