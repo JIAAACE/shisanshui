@@ -1,7 +1,7 @@
 # shisanshui
 
 ![](https://img.shields.io/badge/language-vue-orange.svg)
-![](https://img.shields.io/cocoapods/l/shisanshui.svg) 
+![](https://img.shields.io/cocoapods/l/你的项目名称.svg) 
 
 UI部分：已经做成gif放到博客园上了https://www.cnblogs.com/jiasworld/p/11681427.html
 
